@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Naruto Uzumaki",
+      "account": { "id": 1, "number": "00001-1", "agency": "0001", "balance": 1500.0, "limit": 500.0 },
+      "card": { "id": 1, "number": "**** **** **** 1111", "limit": 1000.0 },
+      "features": [],
+      "news": []
+    },
+    {
+      "id": 2,
+      "name": "Hinata Hyuga",
+      "account": { "id": 2, "number": "00002-2", "agency": "0001", "balance": 2300.0, "limit": 800.0 },
+      "card": { "id": 2, "number": "**** **** **** 2222", "limit": 1500.0 },
+      "features": [],
+      "news": []
+    },
+    {
+      "id": 3,
+      "name": "Sasuke Uchiha",
+      "account": { "id": 3, "number": "00003-3", "agency": "0001", "balance": 3200.0, "limit": 1200.0 },
+      "card": { "id": 3, "number": "**** **** **** 3333", "limit": 2000.0 },
+      "features": [],
+      "news": []
+    },
+    {
+      "id": 4,
+      "name": "Sakura Haruno",
+      "account": { "id": 4, "number": "00004-4", "agency": "0001", "balance": 1800.0, "limit": 700.0 },
+      "card": { "id": 4, "number": "**** **** **** 4444", "limit": 1300.0 },
+      "features": [],
+      "news": []
+    },
+    {
+      "id": 5,
+      "name": "Kakashi Hatake",
+      "account": { "id": 5, "number": "00005-5", "agency": "0001", "balance": 5400.0, "limit": 2000.0 },
+      "card": { "id": 5, "number": "**** **** **** 5555", "limit": 3000.0 },
+      "features": [],
+      "news": []
+    },
+    {
+      "id": 6,
+      "name": "Shikamaru Nara",
+      "account": { "id": 6, "number": "00006-6", "agency": "0001", "balance": 2600.0, "limit": 900.0 },
+      "card": { "id": 6, "number": "**** **** **** 6666", "limit": 1600.0 },
+      "features": [],
+      "news": []
+    },
+    {
+      "id": 7,
+      "name": "Ino Yamanaka",
+      "account": { "id": 7, "number": "00007-7", "agency": "0001", "balance": 2100.0, "limit": 850.0 },
+      "card": { "id": 7, "number": "**** **** **** 7777", "limit": 1400.0 },
+      "features": [],
+      "news": []
+    },
+    {
+      "id": 8,
+      "name": "Choji Akimichi",
+      "account": { "id": 8, "number": "00008-8", "agency": "0001", "balance": 1900.0, "limit": 750.0 },
+      "card": { "id": 8, "number": "**** **** **** 8888", "limit": 1200.0 },
+      "features": [],
+      "news": []
+    },
+    {
+      "id": 9,
+      "name": "Rock Lee",
+      "account": { "id": 9, "number": "00009-9", "agency": "0001", "balance": 1700.0, "limit": 650.0 },
+      "card": { "id": 9, "number": "**** **** **** 9999", "limit": 1100.0 },
+      "features": [],
+      "news": []
+    },
+    {
+      "id": 10,
+      "name": "Gaara",
+      "account": { "id": 10, "number": "00010-0", "agency": "0001", "balance": 6000.0, "limit": 2500.0 },
+      "card": { "id": 10, "number": "**** **** **** 0000", "limit": 3500.0 },
+      "features": [],
+      "news": []
+    }
+  ]
+}
+
